@@ -2,4 +2,5 @@
 可以用来使用google搜索，gmail邮箱，google+等服务
 ### 2、Octotree
 阅读Github项目代码的神器，以树状结构显示项目文件
-### 3、AdGuard广告
+### 3、AdGuard广告拦截器
+基本可以智能拦截所有网站的所有广告，即使有
